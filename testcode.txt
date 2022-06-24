@@ -1,2 +1,1 @@
-But learning git is amazing.
-This is a test file!
+test
